@@ -1,0 +1,32 @@
+body {
+    background-color:lightblue;
+}
+.card {
+    height: 700px;
+    width: 450px;
+    background-color: white;
+    display:flex;
+
+}
+header h1 {
+    text-align: center;
+}
+.greenbox {
+
+}
+.text {
+
+}
+
+.pinkbox {
+
+}
+.brownbox {
+
+}
+.yellowbox{
+
+}
+.orangebox {
+
+}
